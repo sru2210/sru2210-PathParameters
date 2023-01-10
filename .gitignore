@@ -1,1 +1,5 @@
-target/
+target/**/node_modules
+package.json
+package-lock.json
+history_log.txt
+testCases_log.txt
